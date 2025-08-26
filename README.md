@@ -1,19 +1,2 @@
-# Simple Blog Platform
-
-## Live Demo
-[Add your Vercel link here]
-
-## Running Locally
-1. Clone the repository:
-   ```bash
-   git clone <repo_url>
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-4. Open [http://localhost:3000](http://localhost:3000) to view the app.
+<img width="1455" height="735" alt="화면 캡처 2025-08-26 153114" src="https://github.com/user-attachments/assets/bb5691d9-dd23-4e83-8b87-b849c03d34d4" />
+<img width="1180" height="788" alt="화면 캡처 2025-08-26 153124" src="https://github.com/user-attachments/assets/a3a1d79e-aacb-4ef7-8052-f69f065ee22d" />
